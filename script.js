@@ -1,4 +1,4 @@
-const baseURL = 'https://api.icndb.com/jokes/random';
+const baseURL = 'api.icndb.com/jokes/random';
 
 const chuckBtn = document.querySelector('#chuckButton');
 
